@@ -1,0 +1,4 @@
+Sitemap: http://test.jialianghuang.com/sitemap.xml
+
+User-agent: *
+Disallow: 

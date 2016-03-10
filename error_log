@@ -1,0 +1,36 @@
+[25-Feb-2016 17:48:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'jialiang_db1' (2) in /home4/jialiang/public_html/test/Q2.PHP on line 17
+[25-Feb-2016 17:49:41 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost/jialiang_db1' (2) in /home4/jialiang/public_html/test/Q2.PHP on line 17
+[27-Feb-2016 00:00:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/jialiang/public_html/test/Q2.PHP on line 44
+[27-Feb-2016 13:56:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING) in /home4/jialiang/public_html/test/Comment.php on line 15
+[27-Feb-2016 13:58:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'd' (T_STRING) in /home4/jialiang/public_html/test/Comment.php on line 15
+[27-Feb-2016 14:02:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'd' (T_STRING) in /home4/jialiang/public_html/test/Comment.php on line 14
+[27-Feb-2016 14:03:23 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/jialiang/public_html/test/Comment.php on line 22
+[27-Feb-2016 14:07:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jialiang/public_html/test/Comment.php:4) in /home4/jialiang/public_html/test/Comment.php on line 16
+[27-Feb-2016 14:12:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/jialiang/public_html/test/Comment.php:4) in /home4/jialiang/public_html/test/Comment.php on line 16
+[03-Mar-2016 01:40:03 America/Chicago] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 01:40:03 America/Chicago] PHP Warning:  fsockopen(): unable to connect to IOTF-ORG-ID.messaging.internetofthings.ibmcloud.com:1883 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 01:40:14 America/Chicago] PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 01:40:14 America/Chicago] PHP Warning:  fsockopen(): unable to connect to IOTF-ORG-ID.messaging.internetofthings.ibmcloud.com:1883 (php_network_getaddresses: getaddrinfo failed: Name or service not known) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:10:38 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:13:31 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:13:44 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:18:37 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:18:45 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:19:09 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:20:54 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:22:40 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:22:47 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:22:51 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 13:33:50 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 17:21:26 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 17:31:17 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 17:31:21 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 17:34:04 America/Chicago] PHP Warning:  require(phpMQTT.php): failed to open stream: No such file or directory in /home4/jialiang/public_html/test/web-app.php on line 3
+[03-Mar-2016 17:34:04 America/Chicago] PHP Warning:  require(phpMQTT.php): failed to open stream: No such file or directory in /home4/jialiang/public_html/test/web-app.php on line 3
+[03-Mar-2016 17:34:04 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpMQTT.php' (include_path='.:/opt/php54/lib/php') in /home4/jialiang/public_html/test/web-app.php on line 3
+[03-Mar-2016 17:38:19 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 17:41:28 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 17:41:31 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 17:41:40 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[03-Mar-2016 21:45:20 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
+[07-Mar-2016 13:12:39 America/Chicago] PHP Warning:  fsockopen(): unable to connect to 23.246.232.210:1883 (Connection refused) in /home4/jialiang/public_html/test/phpMQTT.php on line 78
